@@ -1,0 +1,4 @@
+firebase Phone OTP auth link :
+=======================
+
+https://www.geeksforgeeks.org/phone-number-verification-using-firebase-in-android/
