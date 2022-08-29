@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "882730860165",
+    "project_id": "phoneotpauthfirebaselatest",
+    "storage_bucket": "phoneotpauthfirebaselatest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882730860165:android:7e21e03752110a9b2bf3ec",
+        "android_client_info": {
+          "package_name": "com.kotlintest.phoneotpauthfirebaselatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882730860165-mmapnibq35u4r1cike53aphvj2ht0d6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kotlintest.phoneotpauthfirebaselatest",
+            "certificate_hash": "2e96e11274272b217126f0e775e8f4a405a77835"
+          }
+        },
+        {
+          "client_id": "882730860165-oho8tu65gcied87qj7smf4t76t43k6hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kotlintest.phoneotpauthfirebaselatest",
+            "certificate_hash": "0aaa0b5a2dcd186dfc7c9124d17ceb1496d80c41"
+          }
+        },
+        {
+          "client_id": "882730860165-r6b804nubb7kv05chtk6lh4280bme1qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB-AG6Dj6fM2scZukzwap0XnLuoXt1U4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882730860165-r6b804nubb7kv05chtk6lh4280bme1qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
